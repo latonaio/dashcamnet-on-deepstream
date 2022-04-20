@@ -10,7 +10,7 @@ dashcamnet-on-deepstream は、DeepStream 上で DashCamNet の AIモデル を�
 
 ## DashCamNetについて
 DashCamNet は、移動カメラから画像内の車、人、道路標識、および二輪車を検出し、カテゴリラベルを返すAIモデルです。
-DashCamNet は、バックボーン特徴抽出にResNet18を使用しており、混雑した場所でも正確に物体検出を行うことができます。
+DashCamNet は、特徴抽出にResNet18を使用しており、混雑した場所でも正確に物体検出を行うことができます。
 
 ## 動作手順
 ### Dockerコンテナの起動
