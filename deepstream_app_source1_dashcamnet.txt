@@ -26,11 +26,11 @@ perf-measurement-interval-sec=5
 #gie-kitti-output-dir=streamscl
 
 [tiled-display]
-enable=0
-rows=2
-columns=2
-width=800
-height=448
+enable=1
+rows=1
+columns=1
+width=1280
+height=720
 gpu-id=0
 nvbuf-memory-type=0
 
